@@ -14,7 +14,7 @@ Analyze **Diwali Sales Data** to understand customer behavior and improve sales 
 ---
 
 ## 🔹 Tools & Libraries  
-- Python 🐍  
+- Python 
 - Pandas  
 - Matplotlib  
 - Seaborn  
